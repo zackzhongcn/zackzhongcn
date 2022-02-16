@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zackzhongcn
+- 👀 I’m interested in web development and blockchain development
+- 🌱 I’m currently learning Bachelor of Computer Science
+- 💞️ I’m looking to collaborate on bolocakchain (NFT Marketplace) projects and web application projects.
+- 📫 Reach me with zackzhongcn@gmail.com.
